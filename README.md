@@ -81,6 +81,7 @@ implement to enhance this app, if time permits.
     - [ ] A summary main recipe component: it should display recipe image, name and link to details.
     - [ ] A summary detail recipe component: it should display recipe name, category, and instructions.
     - [ ] Ensure mobile responsiveness for the application.
+    - [ ] SignUp/SignIn to store user history and liked recipes.
 
 - Search Component
     - [ ] Users can input one or multiple ingredient(s).
