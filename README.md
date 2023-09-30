@@ -1,4 +1,4 @@
-# voyage-project-tier2-recipe
+# voyage-project-tier3-recipe
 
 ## Table of Contents
 
