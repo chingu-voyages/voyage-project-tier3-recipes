@@ -56,7 +56,7 @@ implement to enhance this app, if time permits.
 
 #### Structure
 
-- [ ] This is a purely frontend application. No backend is required. 
+- [ ] This is a comprehensive application, both frontend and backend are required.
 - [ ] You may use any languages, tools, or libraries you prefer when designing and building this app. 
 - [ ] You should leverage the [Recipe - Rapid API](https://rapidapi.com/apidojo/api/tasty) as a recipe resource.
 - [ ] You may **_NOT_** use AI-base solution generators like GitHub CoPilot.
